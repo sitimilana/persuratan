@@ -178,7 +178,31 @@ Berikut adalah tampilan dari halaman utama aplikasi ArsipId.
 
 ## Halaman Utama
    <img width="1905" height="956" alt="image" src="https://github.com/user-attachments/assets/a70fed7b-3b88-40d9-bf82-2d7b40d68124" />
-   
 
+## Halaman Arsip Surat
+<img width="940" height="441" alt="image" src="https://github.com/user-attachments/assets/d41d7564-29f3-4259-83d6-3d554dae2243" />
 
->>>>>>> 4cb45368aeaaa78093d871f00a6fd0c33a49bd8b
+## Konfirmasi Hapus Surat
+<img width="940" height="444" alt="image" src="https://github.com/user-attachments/assets/7184edd1-780c-4c2d-9a1a-99404f4ba15c" />
+
+## Unduh Surat
+<img width="404" height="391" alt="image" src="https://github.com/user-attachments/assets/9ddd84d7-7097-403e-aec1-42d7ac49d599" />
+
+## Halaman Lihat Surat
+<img width="940" height="443" alt="image" src="https://github.com/user-attachments/assets/feb3922d-b506-424a-bf87-9dc8c4b233fa" />
+
+## Halaman Kategori Surat
+<img width="940" height="444" alt="image" src="https://github.com/user-attachments/assets/3bbf36fc-f85b-45a4-91bf-c2bdf7795e29" />
+
+## Halaman Tambah Kategori Baru
+<img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/891fd5d1-920b-4ed1-b06a-5bd625f6fc70" />
+
+## Halaman Edit Kategori
+<img width="940" height="443" alt="image" src="https://github.com/user-attachments/assets/18d32059-ea51-4d32-9e7d-dfd6d6b848e3" />
+
+## Konfigurasi Hapus Kategori
+<img width="940" height="444" alt="image" src="https://github.com/user-attachments/assets/95ce2a3d-5df9-4088-ab7e-377728387da2" />
+
+## Halaman About
+<img width="940" height="444" alt="image" src="https://github.com/user-attachments/assets/336e3a52-4730-4a54-9536-43728ffb09bd" />
+
