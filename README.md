@@ -176,7 +176,7 @@ Berikut adalah langkah-langkah untuk menjalankan proyek ini di lingkungan pengem
 Berikut adalah tampilan dari halaman utama aplikasi ArsipId.
 
 ## Halaman Utama
-   <img width="1905" height="956" alt="image" src="https://github.com/user-attachments/assets/a70fed7b-3b88-40d9-bf82-2d7b40d68124" />
+   <img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/8e7d83c0-c559-4e07-b616-e50e2a310dd6" />
 
 ## Halaman Arsip Surat
 <img width="940" height="441" alt="image" src="https://github.com/user-attachments/assets/d41d7564-29f3-4259-83d6-3d554dae2243" />
